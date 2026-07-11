@@ -1,0 +1,6 @@
+id,name,affiliation,origin_region,race,devil_fruit,devil_fruit_type,haki_types,bounty,height_cm,age,status,first_appearance_arc,arc_debut_rank
+1,Monkey D. Luffy,Straw Hat Pirates,East Blue,Human,Gomu Gomu no Mi,Paramecia,Observation;Armament;Conqueror,3000000000,174,19,Alive,Romance Dawn,1
+2,Roronoa Zoro,Straw Hat Pirates,East Blue,Human,None,None,Observation;Armament;Conqueror,1111000000,181,21,Alive,Romance Dawn,1
+3,Nami,Straw Hat Pirates,East Blue,Human,None,None,Observation,366000000,170,20,Alive,Orange Town,2
+4,Sanji,Straw Hat Pirates,North Blue,Human,None,None,Observation;Armament,1032000000,180,21,Alive,Baratie,4
+5,Trafalgar D. Water Law,Heart Pirates,North Blue,Human,Ope Ope no Mi,Paramecia,Observation;Armament,3000000000,191,26,Alive,Sabaody Archipelago,19
